@@ -1,0 +1,6 @@
+{
+  "name": "Ultimath",
+  "description": "Next generation smart calculator with gestures, memory vault, and advanced modular features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
